@@ -1,5 +1,5 @@
-###👋 Who I am? 👋
-⚡ Data Science & Machine Learning enjoyer
+###👋 Who I am? 👋 <br/>
+⚡ Data Science & Machine Learning enjoyer <br/>
 🔭 3rd year student of the Faculty of Mechanics and Mathematics of Moscow State University <br/>
 🌱 Specialization: mathematical statistics and stochastic processes <br/>
 👯 I plan to post here all the significant progress on tasks that I will ever encounter in the process of studying/passing competitive selections/internships/etc. <br/>
