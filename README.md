@@ -4,7 +4,7 @@
 🌱 Specialization: mathematical statistics and stochastic processes <br/>
 👯 I plan to post here all the significant progress on tasks that I will ever encounter in the process of studying/passing competitive selections/internships/etc. <br/>
 💬 You can contact me via VK or Telegram, links are listed in the profile :) <br/>
-<!--
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif" width="350"/>
   <div id="badges" >
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge" height="38"/>
   </a>
 </div>
-<h1>
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
