@@ -10,7 +10,7 @@
   <a href="https://vk.com/squirrrrmle" target="_blank">
     <img src="https://img.shields.io/badge/ВК-blue?logo=VK&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"  height="38"/>
   </a>
-  <a href="t.me/squirrrrmle" target="_blank">
+  <a href="https://t.me/squirrrrmle" target="_blank">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge" height="38"/>
   </a>
 </div>
