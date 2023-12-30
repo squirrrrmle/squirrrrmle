@@ -1,20 +1,20 @@
-### Кто я такой и с чем меня есть 👋
-⚡ Data Science & Machine Learning enjoyer (Python only)
-🔭 Студент 3-го курса механико-математического факультета МГУ
-🌱 Cпециализация: математическая статистика и случайные процессы 
-👯 Планирую сюда выкладывать все значительные продвижения по задачкам, которые мне когда-либо встретятся в процессе обучения/прохождения конкурсных отборов/стажировок/etc
-📫 Связаться со мной можно посредством ВК или Telegram, ссылки указаны в профиле :)
+###👋 Who I am? 👋
+⚡ Data Science & Machine Learning enjoyer
+🔭 3rd year student of the Faculty of Mechanics and Mathematics of Moscow State University <br/>
+🌱 Specialization: mathematical statistics and stochastic processes <br/>
+👯 I plan to post here all the significant progress on tasks that I will ever encounter in the process of studying/passing competitive selections/internships/etc. <br/>
+💬 You can contact me via VK or Telegram, links are listed in the profile :) <br/>
 <!--
-**squirrrrmle/squirrrrmle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🧰 Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<br />
+
+#
