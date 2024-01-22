@@ -1,4 +1,4 @@
-# 👋 Who I am?👋 <br/>
+# 👋 Who am I?👋 <br/>
 ⚡ Data Science & Machine Learning enjoyer <br/>
 🔭 3rd year student of the Faculty of Mechanics and Mathematics of Moscow State University <br/>
 🌱 Specialization: mathematical statistics and stochastic processes <br/>
