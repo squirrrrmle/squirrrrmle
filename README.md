@@ -1,6 +1,6 @@
 # 👋 Who am I?👋 <br/>
 ⚡ Data Science & Machine Learning enjoyer <br/>
-🔭 4th year student of the Faculty of Mechanics and Mathematics of Moscow State University <br/>
+🔭 5th year student of the Faculty of Mechanics and Mathematics of Moscow State University <br/>
 🌱 Specialization: mathematical statistics and stochastic processes <br/>
 👯 I plan to post here all the significant progress on tasks that I will ever encounter in the process of studying/passing competitive selections/internships/etc. <br/>
 💬 You can contact me via Telegram @squirrrrmle <br/>
